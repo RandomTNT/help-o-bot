@@ -12,13 +12,5 @@ Versions that checkmarked are suported w/ security updates
 | 2.0.x   | :x:                |
 | 2.1.x.  | :x:                |
 
-
-
-
-## Reporting a Vulnerability or a
-
-
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## Reporting a Vulnerability or an exploit
+If you founded some type of vulnerability or an exploit, immediately, report it to owner of this project or some co-owner
